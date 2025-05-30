@@ -1,0 +1,1514 @@
+[
+    {
+        "name": [
+            "Hero"
+        ],
+        "name_cn": [
+            "TLIDB"
+        ]
+    },
+    {
+        "name": [
+            "Destiny"
+        ],
+        "name_cn": [
+            "Destiny"
+        ]
+    },
+    {
+        "name": [
+            "Active Skill"
+        ],
+        "name_cn": [
+            "Active Skill"
+        ]
+    },
+    {
+        "name": [
+            "Support Skill"
+        ],
+        "name_cn": [
+            "Support Skill"
+        ]
+    },
+    {
+        "name": [
+            "Passive Skill"
+        ],
+        "name_cn": [
+            "Passive Skill"
+        ]
+    },
+    {
+        "name": [
+            "Activation Medium Skill"
+        ],
+        "name_cn": [
+            "Activation Medium Skill"
+        ]
+    },
+    {
+        "name": [
+            "Noble Support Skill"
+        ],
+        "name_cn": [
+            "Noble Support Skill"
+        ]
+    },
+    {
+        "name": [
+            "Magnificent Support Skill"
+        ],
+        "name_cn": [
+            "Magnificent Support Skill"
+        ]
+    },
+    {
+        "name": [
+            "Corrosion"
+        ],
+        "name_cn": [
+            "Corrosion"
+        ]
+    },
+    {
+        "name": [
+            "Soul Candle"
+        ],
+        "name_cn": [
+            "Soul Candle"
+        ]
+    },
+    {
+        "name": [
+            "Dream Talking"
+        ],
+        "name_cn": [
+            "Dream Talking"
+        ]
+    },
+    {
+        "name": [
+            "Netherrealm"
+        ],
+        "name_cn": [
+            "Netherrealm"
+        ]
+    },
+    {
+        "name": [
+            "Confusion Card Library"
+        ],
+        "name_cn": [
+            "Confusion Card Library"
+        ]
+    },
+    {
+        "name": [
+            "Void Chart"
+        ],
+        "name_cn": [
+            "Void Chart"
+        ]
+    },
+    {
+        "name": [
+            "Compass"
+        ],
+        "name_cn": [
+            "Compass"
+        ]
+    },
+    {
+        "name": [
+            "Probe"
+        ],
+        "name_cn": [
+            "Probe"
+        ]
+    },
+    {
+        "name": [
+            "Path of the Brave"
+        ],
+        "name_cn": [
+            "Path of the Brave"
+        ]
+    },
+    {
+        "name": [
+            "TLIDB"
+        ],
+        "name_cn": [
+            "EN English"
+        ]
+    },
+    {
+        "name": [
+            "TW 繁體中文"
+        ],
+        "name_cn": [
+            "TW 繁體中文"
+        ]
+    },
+    {
+        "name": [
+            "KO 한국어"
+        ],
+        "name_cn": [
+            "KO 한국어"
+        ]
+    },
+    {
+        "name": [
+            "JA Japanese"
+        ],
+        "name_cn": [
+            "JA Japanese"
+        ]
+    },
+    {
+        "name": [
+            "Sandlord Season"
+        ],
+        "name_cn": [
+            "大亨赛季"
+        ]
+    },
+    {
+        "name": [
+            "Cloud Oasis"
+        ],
+        "name_cn": [
+            "云端绿洲"
+        ]
+    },
+    {
+        "name": [
+            "Blending Rituals"
+        ],
+        "name_cn": [
+            "调香秘仪"
+        ]
+    },
+    {
+        "name": [
+            "Aromatic Material"
+        ],
+        "name_cn": [
+            "香料"
+        ]
+    },
+    {
+        "name": [
+            "Blasphemer"
+        ],
+        "name_cn": [
+            "渎神"
+        ]
+    },
+    {
+        "name": [
+            "New God"
+        ],
+        "name_cn": [
+            "新神"
+        ]
+    },
+    {
+        "name": [
+            "STR Helmet"
+        ],
+        "name_cn": [
+            "STR Helmet"
+        ]
+    },
+    {
+        "name": [
+            "DEX Helmet"
+        ],
+        "name_cn": [
+            "DEX Helmet"
+        ]
+    },
+    {
+        "name": [
+            "INT Helmet"
+        ],
+        "name_cn": [
+            "INT Helmet"
+        ]
+    },
+    {
+        "name": [
+            "STR Chest Armor"
+        ],
+        "name_cn": [
+            "STR Chest Armor"
+        ]
+    },
+    {
+        "name": [
+            "DEX Chest Armor"
+        ],
+        "name_cn": [
+            "DEX Chest Armor"
+        ]
+    },
+    {
+        "name": [
+            "INT Chest Armor"
+        ],
+        "name_cn": [
+            "INT Chest Armor"
+        ]
+    },
+    {
+        "name": [
+            "STR Gloves"
+        ],
+        "name_cn": [
+            "STR Gloves"
+        ]
+    },
+    {
+        "name": [
+            "DEX Gloves"
+        ],
+        "name_cn": [
+            "DEX Gloves"
+        ]
+    },
+    {
+        "name": [
+            "INT Gloves"
+        ],
+        "name_cn": [
+            "INT Gloves"
+        ]
+    },
+    {
+        "name": [
+            "STR Boots"
+        ],
+        "name_cn": [
+            "STR Boots"
+        ]
+    },
+    {
+        "name": [
+            "DEX Boots"
+        ],
+        "name_cn": [
+            "DEX Boots"
+        ]
+    },
+    {
+        "name": [
+            "INT Boots"
+        ],
+        "name_cn": [
+            "INT Boots"
+        ]
+    },
+    {
+        "name": [
+            "Claw"
+        ],
+        "name_cn": [
+            "Claw"
+        ]
+    },
+    {
+        "name": [
+            "Dagger"
+        ],
+        "name_cn": [
+            "Dagger"
+        ]
+    },
+    {
+        "name": [
+            "One-Handed Sword"
+        ],
+        "name_cn": [
+            "One-Handed Sword"
+        ]
+    },
+    {
+        "name": [
+            "One-Handed Hammer"
+        ],
+        "name_cn": [
+            "One-Handed Hammer"
+        ]
+    },
+    {
+        "name": [
+            "One-Handed Axe"
+        ],
+        "name_cn": [
+            "One-Handed Axe"
+        ]
+    },
+    {
+        "name": [
+            "Wand"
+        ],
+        "name_cn": [
+            "Wand"
+        ]
+    },
+    {
+        "name": [
+            "Rod"
+        ],
+        "name_cn": [
+            "Rod"
+        ]
+    },
+    {
+        "name": [
+            "Scepter"
+        ],
+        "name_cn": [
+            "Scepter"
+        ]
+    },
+    {
+        "name": [
+            "Cane"
+        ],
+        "name_cn": [
+            "Cane"
+        ]
+    },
+    {
+        "name": [
+            "Pistol"
+        ],
+        "name_cn": [
+            "Pistol"
+        ]
+    },
+    {
+        "name": [
+            "Two-Handed Sword"
+        ],
+        "name_cn": [
+            "Two-Handed Sword"
+        ]
+    },
+    {
+        "name": [
+            "Two-Handed Hammer"
+        ],
+        "name_cn": [
+            "Two-Handed Hammer"
+        ]
+    },
+    {
+        "name": [
+            "Two-Handed Axe"
+        ],
+        "name_cn": [
+            "Two-Handed Axe"
+        ]
+    },
+    {
+        "name": [
+            "Tin Staff"
+        ],
+        "name_cn": [
+            "Tin Staff"
+        ]
+    },
+    {
+        "name": [
+            "Cudgel"
+        ],
+        "name_cn": [
+            "Cudgel"
+        ]
+    },
+    {
+        "name": [
+            "Bow"
+        ],
+        "name_cn": [
+            "Bow"
+        ]
+    },
+    {
+        "name": [
+            "Crossbow"
+        ],
+        "name_cn": [
+            "Crossbow"
+        ]
+    },
+    {
+        "name": [
+            "Musket"
+        ],
+        "name_cn": [
+            "Musket"
+        ]
+    },
+    {
+        "name": [
+            "Fire Canon"
+        ],
+        "name_cn": [
+            "Fire Canon"
+        ]
+    },
+    {
+        "name": [
+            "STR Shield"
+        ],
+        "name_cn": [
+            "STR Shield"
+        ]
+    },
+    {
+        "name": [
+            "DEX Shield"
+        ],
+        "name_cn": [
+            "DEX Shield"
+        ]
+    },
+    {
+        "name": [
+            "INT Shield"
+        ],
+        "name_cn": [
+            "INT Shield"
+        ]
+    },
+    {
+        "name": [
+            "Necklace"
+        ],
+        "name_cn": [
+            "Necklace"
+        ]
+    },
+    {
+        "name": [
+            "Ring"
+        ],
+        "name_cn": [
+            "Ring"
+        ]
+    },
+    {
+        "name": [
+            "Belt"
+        ],
+        "name_cn": [
+            "Belt"
+        ]
+    },
+    {
+        "name": [
+            "Spirit Ring"
+        ],
+        "name_cn": [
+            "Spirit Ring"
+        ]
+    },
+    {
+        "name": [
+            "Hero Memories"
+        ],
+        "name_cn": [
+            "Hero Memories"
+        ]
+    },
+    {
+        "name": [
+            "Divinity Slate"
+        ],
+        "name_cn": [
+            "Divinity Slate"
+        ]
+    },
+    {
+        "name": [
+            "Fluorescent Memory"
+        ],
+        "name_cn": [
+            "记忆荧光"
+        ]
+    },
+    {
+        "name": [
+            "Universal Items"
+        ],
+        "name_cn": [
+            "通用道具"
+        ]
+    },
+    {
+        "name": [
+            "Ember"
+        ],
+        "name_cn": [
+            "灰烬"
+        ]
+    },
+    {
+        "name": [
+            "Fossil"
+        ],
+        "name_cn": [
+            "化石"
+        ]
+    },
+    {
+        "name": [
+            "Fuel"
+        ],
+        "name_cn": [
+            "燃料"
+        ]
+    },
+    {
+        "name": [
+            "Divinity Emblems"
+        ],
+        "name_cn": [
+            "神威纹章"
+        ]
+    },
+    {
+        "name": [
+            "Dark Surge Edict"
+        ],
+        "name_cn": [
+            "黑潮敕令"
+        ]
+    },
+    {
+        "name": [
+            "Void Sea Invitation"
+        ],
+        "name_cn": [
+            "虚海请柬"
+        ]
+    },
+    {
+        "name": [
+            "Desire Core"
+        ],
+        "name_cn": [
+            "欲念原核"
+        ]
+    },
+    {
+        "name": [
+            "Queen's Wick"
+        ],
+        "name_cn": [
+            "王后烛芯"
+        ]
+    },
+    {
+        "name": [
+            "Queen's Grace"
+        ],
+        "name_cn": [
+            "女王恩宠"
+        ]
+    },
+    {
+        "name": [
+            "Beacon"
+        ],
+        "name_cn": [
+            "信标"
+        ]
+    },
+    {
+        "name": [
+            "Primeval Core"
+        ],
+        "name_cn": [
+            "原初之核"
+        ]
+    },
+    {
+        "name": [
+            "Proof of the Brave"
+        ],
+        "name_cn": [
+            "勇者之证"
+        ]
+    },
+    {
+        "name": [
+            "Corrosion Material"
+        ],
+        "name_cn": [
+            "侵蚀材料"
+        ]
+    },
+    {
+        "name": [
+            "Memory Scrap"
+        ],
+        "name_cn": [
+            "追忆碎絮"
+        ]
+    },
+    {
+        "name": [
+            "Memory Thread"
+        ],
+        "name_cn": [
+            "追忆游丝"
+        ]
+    },
+    {
+        "name": [
+            "Transcendence Wedge"
+        ],
+        "name_cn": [
+            "升华之楔"
+        ]
+    },
+    {
+        "name": [
+            "Unifying Wedge"
+        ],
+        "name_cn": [
+            "归一之楔"
+        ]
+    },
+    {
+        "name": [
+            "Divinity Pact"
+        ],
+        "name_cn": [
+            "神格契约"
+        ]
+    },
+    {
+        "name": [
+            "Divinity Fragment"
+        ],
+        "name_cn": [
+            "神格残片"
+        ]
+    },
+    {
+        "name": [
+            "Divinity Stone"
+        ],
+        "name_cn": [
+            "神威辉石"
+        ]
+    },
+    {
+        "name": [
+            "The City of Aeterna"
+        ],
+        "name_cn": [
+            "永恒迷城"
+        ]
+    },
+    {
+        "name": [
+            "Aeterna Reverberation"
+        ],
+        "name_cn": [
+            "迷城残响"
+        ]
+    },
+    {
+        "name": [
+            "Whispering Mist"
+        ],
+        "name_cn": [
+            "雾都怪谈"
+        ]
+    },
+    {
+        "name": [
+            "Soul Candle Related"
+        ],
+        "name_cn": [
+            "魂烛相关"
+        ]
+    },
+    {
+        "name": [
+            "God of Might"
+        ],
+        "name_cn": [
+            "巨力之神"
+        ]
+    },
+    {
+        "name": [
+            "Goddess of Hunting"
+        ],
+        "name_cn": [
+            "狩猎之神"
+        ]
+    },
+    {
+        "name": [
+            "Goddess of Knowledge"
+        ],
+        "name_cn": [
+            "知识之神"
+        ]
+    },
+    {
+        "name": [
+            "God of War"
+        ],
+        "name_cn": [
+            "征战之神"
+        ]
+    },
+    {
+        "name": [
+            "Goddess of Deception"
+        ],
+        "name_cn": [
+            "欺诈之神"
+        ]
+    },
+    {
+        "name": [
+            "God of Machines"
+        ],
+        "name_cn": [
+            "机械之神"
+        ]
+    },
+    {
+        "name": [
+            "Gear Blueprint"
+        ],
+        "name_cn": [
+            "装备蓝图"
+        ]
+    },
+    {
+        "name": [
+            "The Frozen Canvas"
+        ],
+        "name_cn": [
+            "画中雪原"
+        ]
+    },
+    {
+        "name": [
+            "Destiny Related"
+        ],
+        "name_cn": [
+            "命运相关"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - Survival"
+        ],
+        "name_cn": [
+            "小型宿命-生存"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - Melee"
+        ],
+        "name_cn": [
+            "小型宿命-近战"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - Projectile"
+        ],
+        "name_cn": [
+            "小型宿命-投射物"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - Spell"
+        ],
+        "name_cn": [
+            "小型宿命-法术"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - DoT"
+        ],
+        "name_cn": [
+            "小型宿命-持续"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - Summon"
+        ],
+        "name_cn": [
+            "小型宿命-召唤"
+        ]
+    },
+    {
+        "name": [
+            "Micro Fate - Other"
+        ],
+        "name_cn": [
+            "小型宿命-其他"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - Survival"
+        ],
+        "name_cn": [
+            "中型宿命-生存"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - Melee"
+        ],
+        "name_cn": [
+            "中型宿命-近战"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - Projectile"
+        ],
+        "name_cn": [
+            "中型宿命-投射物"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - Spell"
+        ],
+        "name_cn": [
+            "中型宿命-法术"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - DoT"
+        ],
+        "name_cn": [
+            "中型宿命-持续"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - Summon"
+        ],
+        "name_cn": [
+            "中型宿命-召唤"
+        ]
+    },
+    {
+        "name": [
+            "Medium Fate - Other"
+        ],
+        "name_cn": [
+            "中型宿命-其他"
+        ]
+    },
+    {
+        "name": [
+            "Undetermined Fate"
+        ],
+        "name_cn": [
+            "未定宿命"
+        ]
+    },
+    {
+        "name": [
+            "Chapter 1"
+        ],
+        "name_cn": [
+            "第一章"
+        ]
+    },
+    {
+        "name": [
+            "Chapter 2"
+        ],
+        "name_cn": [
+            "第二章"
+        ]
+    },
+    {
+        "name": [
+            "Chapter 3"
+        ],
+        "name_cn": [
+            "第三章"
+        ]
+    },
+    {
+        "name": [
+            "Gameplay - Trial: God of War"
+        ],
+        "name_cn": [
+            "玩法-征战之神的试炼"
+        ]
+    },
+    {
+        "name": [
+            "Gameplay - Trial: God of Might"
+        ],
+        "name_cn": [
+            "玩法-巨力之神的试炼"
+        ]
+    },
+    {
+        "name": [
+            "Gameplay - Trial: God of Machines"
+        ],
+        "name_cn": [
+            "玩法-机械之神的试炼"
+        ]
+    },
+    {
+        "name": [
+            "Gameplay - Trial: Goddess of Hunting"
+        ],
+        "name_cn": [
+            "玩法-狩猎之神的试炼"
+        ]
+    },
+    {
+        "name": [
+            "Journey"
+        ],
+        "name_cn": [
+            "旅程"
+        ]
+    },
+    {
+        "name": [
+            "Skill"
+        ],
+        "name_cn": [
+            "技能"
+        ]
+    },
+    {
+        "name": [
+            "Gear"
+        ],
+        "name_cn": [
+            "装备"
+        ]
+    },
+    {
+        "name": [
+            "Loot"
+        ],
+        "name_cn": [
+            "打宝"
+        ]
+    },
+    {
+        "name": [
+            "Challenge"
+        ],
+        "name_cn": [
+            "挑战"
+        ]
+    },
+    {
+        "name": [
+            "Pages"
+        ],
+        "name_cn": [
+            "书页"
+        ]
+    },
+    {
+        "name": [
+            "Glyph"
+        ],
+        "name_cn": [
+            "铭文"
+        ]
+    },
+    {
+        "name": [
+            "Geography"
+        ],
+        "name_cn": [
+            "地理"
+        ]
+    },
+    {
+        "name": [
+            "Environment"
+        ],
+        "name_cn": [
+            "风物"
+        ]
+    },
+    {
+        "name": [
+            "History"
+        ],
+        "name_cn": [
+            "历史"
+        ]
+    },
+    {
+        "name": [
+            "Account"
+        ],
+        "name_cn": [
+            "账号功能"
+        ]
+    },
+    {
+        "name": [
+            "Pactspirit Shop"
+        ],
+        "name_cn": [
+            "契灵商店"
+        ]
+    },
+    {
+        "name": [
+            "Hero Shop"
+        ],
+        "name_cn": [
+            "英雄商店"
+        ]
+    },
+    {
+        "name": [
+            "Pack"
+        ],
+        "name_cn": [
+            "礼包"
+        ]
+    },
+    {
+        "name": [
+            "Illusion Essence Shop"
+        ],
+        "name_cn": [
+            "幻想精华商店"
+        ]
+    },
+    {
+        "name": [
+            "Hero Outfit"
+        ],
+        "name_cn": [
+            "英雄时装"
+        ]
+    },
+    {
+        "name": [
+            "Weapon Skin"
+        ],
+        "name_cn": [
+            "武器时装"
+        ]
+    },
+    {
+        "name": [
+            "Headdress"
+        ],
+        "name_cn": [
+            "头饰"
+        ]
+    },
+    {
+        "name": [
+            "Back accessory"
+        ],
+        "name_cn": [
+            "背饰"
+        ]
+    },
+    {
+        "name": [
+            "Skill Outfit"
+        ],
+        "name_cn": [
+            "技能时装"
+        ]
+    },
+    {
+        "name": [
+            "Body effect"
+        ],
+        "name_cn": [
+            "身体特效"
+        ]
+    },
+    {
+        "name": [
+            "Footprint effect"
+        ],
+        "name_cn": [
+            "足迹特效"
+        ]
+    },
+    {
+        "name": [
+            "Teleport effect"
+        ],
+        "name_cn": [
+            "传送特效"
+        ]
+    },
+    {
+        "name": [
+            "Weapon effect"
+        ],
+        "name_cn": [
+            "武器特效"
+        ]
+    },
+    {
+        "name": [
+            "Portrait"
+        ],
+        "name_cn": [
+            "头像"
+        ]
+    },
+    {
+        "name": [
+            "Arcana Season"
+        ],
+        "name_cn": [
+            "塔罗赛季"
+        ]
+    },
+    {
+        "name": [
+            "Tarot Path"
+        ],
+        "name_cn": [
+            "塔罗秘径"
+        ]
+    },
+    {
+        "name": [
+            "Vigilant Breeze"
+        ],
+        "name_cn": [
+            "守望的暖风"
+        ]
+    },
+    {
+        "name": [
+            "The Frozen Canvas Season"
+        ],
+        "name_cn": [
+            "画雪赛季"
+        ]
+    },
+    {
+        "name": [
+            "Aureate Calamity Ordrak"
+        ],
+        "name_cn": [
+            "金色浩劫·奥达克"
+        ]
+    },
+    {
+        "name": [
+            "Supreme Showdown"
+        ],
+        "name_cn": [
+            "巅峰对决"
+        ]
+    },
+    {
+        "name": [
+            "Sing with the Tide"
+        ],
+        "name_cn": [
+            "与海潮同歌"
+        ]
+    },
+    {
+        "name": [
+            "Clockwork Ballet Season"
+        ],
+        "name_cn": [
+            "玩偶赛季"
+        ]
+    },
+    {
+        "name": [
+            "Clockwork Ballet Member Services"
+        ],
+        "name_cn": [
+            "玩偶俱乐部会员服务"
+        ]
+    },
+    {
+        "name": [
+            "Zealot of War"
+        ],
+        "name_cn": [
+            "战火狂徒"
+        ]
+    },
+    {
+        "name": [
+            "Whispering Mist Season"
+        ],
+        "name_cn": [
+            "怪谈赛季"
+        ]
+    },
+    {
+        "name": [
+            "Deduction Record"
+        ],
+        "name_cn": [
+            "推理记录"
+        ]
+    },
+    {
+        "name": [
+            "Mistville Exploration"
+        ],
+        "name_cn": [
+            "雾都探索"
+        ]
+    },
+    {
+        "name": [
+            "Mistville Trader"
+        ],
+        "name_cn": [
+            "雾都商人"
+        ]
+    },
+    {
+        "name": [
+            "Lightning Shadow"
+        ],
+        "name_cn": [
+            "电光猫影"
+        ]
+    },
+    {
+        "name": [
+            "Preseason SS3"
+        ],
+        "name_cn": [
+            "SS3季前赛"
+        ]
+    },
+    {
+        "name": [
+            "Nightmare Season"
+        ],
+        "name_cn": [
+            "梦魇赛季"
+        ]
+    },
+    {
+        "name": [
+            "Dream Bubble"
+        ],
+        "name_cn": [
+            "梦境泡影"
+        ]
+    },
+    {
+        "name": [
+            "Dream Cloud Atlas"
+        ],
+        "name_cn": [
+            "梦境云图"
+        ]
+    },
+    {
+        "name": [
+            "High Court Chariot"
+        ],
+        "name_cn": [
+            "圣庭战车"
+        ]
+    },
+    {
+        "name": [
+            "SS1 Preseason"
+        ],
+        "name_cn": [
+            "SS1季前赛"
+        ]
+    },
+    {
+        "name": [
+            "Aeterna Season"
+        ],
+        "name_cn": [
+            "迷城赛季"
+        ]
+    },
+    {
+        "name": [
+            "Aeterna Map"
+        ],
+        "name_cn": [
+            "迷城版图"
+        ]
+    },
+    {
+        "name": [
+            "Psalms of Aeterna"
+        ],
+        "name_cn": [
+            "永恒诗篇"
+        ]
+    },
+    {
+        "name": [
+            "Pages of Aeterna"
+        ],
+        "name_cn": [
+            "永恒残页"
+        ]
+    },
+    {
+        "name": [
+            "Cube Season"
+        ],
+        "name_cn": [
+            "魔方赛季"
+        ]
+    },
+    {
+        "name": [
+            "Avarice Code"
+        ],
+        "name_cn": [
+            "黑心者律典"
+        ]
+    },
+    {
+        "name": [
+            "Spell Burst"
+        ],
+        "name_cn": [
+            "法术迸发"
+        ]
+    },
+    {
+        "name": [
+            "Command"
+        ],
+        "name_cn": [
+            "统御"
+        ]
+    },
+    {
+        "name": [
+            "The Law Bearer"
+        ],
+        "name_cn": [
+            "持律人"
+        ]
+    },
+    {
+        "name": [
+            "Desire Crystal"
+        ],
+        "name_cn": [
+            "欲念结晶"
+        ]
+    },
+    {
+        "name": [
+            "Divinity Stone"
+        ],
+        "name_cn": [
+            "神威辉石"
+        ]
+    },
+    {
+        "name": [
+            "Blacksail Season"
+        ],
+        "name_cn": [
+            "黑帆赛季"
+        ]
+    },
+    {
+        "name": [
+            "Void Sea Flame"
+        ],
+        "name_cn": [
+            "虚海夜火"
+        ]
+    },
+    {
+        "name": [
+            "Void Sea Terminal"
+        ],
+        "name_cn": [
+            "虚空终港"
+        ]
+    },
+    {
+        "name": [
+            "Whisper of Wealth"
+        ],
+        "name_cn": [
+            "财富秘语"
+        ]
+    },
+    {
+        "name": [
+            "Whisper of Armament"
+        ],
+        "name_cn": [
+            "军械秘语"
+        ]
+    },
+    {
+        "name": [
+            "Whisper of Wonder"
+        ],
+        "name_cn": [
+            "奇珍秘语"
+        ]
+    },
+    {
+        "name": [
+            "Dark Surge Season"
+        ],
+        "name_cn": [
+            "黑潮赛季"
+        ]
+    },
+    {
+        "name": [
+            "Privacy"
+        ],
+        "name_cn": [
+            "Privacy"
+        ]
+    }
+]
